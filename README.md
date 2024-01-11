@@ -37,7 +37,7 @@ Não foi feita a parte de responsividade, porém essa é uma área para futuras 
 
 ## Contatos
 - **E-mail:** mirellypollocks@gmail.com
-- **LinkedIn:** [Mireli Araújo](www.linkedin.com/in/mireli-araujo)
+- **LinkedIn:** [Mireli Araújo](https://www.linkedin.com/in/mireli-araujo/)
 - **GitHub:** [MireliAraujo](https://github.com/MireliAraujo)
 
 
@@ -79,5 +79,5 @@ Responsiveness was not implemented, but this is an area for future improvements.
 
 ## Contacts
 - **Email:** mirellypollocks@gmail.com
-- **LinkedIn:** [Mireli Araújo](www.linkedin.com/in/mireli-araujo)
+- **LinkedIn:** [Mireli Araújo](https://www.linkedin.com/in/mireli-araujo/)
 - **GitHub:** [MireliAraujo](https://github.com/MireliAraujo)
