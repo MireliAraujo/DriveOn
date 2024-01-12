@@ -14,11 +14,11 @@ colocar em prática coisas que não via a um tempo.
 ## Estrutura de Arquivos
 - `images` - Contém todas as imagens utilizadas no projeto. (Aqui utilizei as imagens em uma pasta separada para manter a estrutura do projeto mais limpa e organizada).
 
-## HTML
+## HTML5
 - `index.html` - Este arquivo contém todo o código HTML do projeto. A estrutura da página foi organizada em seções, como header, main e footer.
 -  Comentários foram adicionados ao código para facilitar a compreensão.
 
-## CSS
+## CSS3
 - `main.css` - Aqui está todo o conteúdo CSS, desenvolvido em conjunto com o HTML. Assim como no HTML, o código CSS foi comentado para melhor entendimento.
 - Optei por utilizar a metodologia BEM para a escolha das classes, visando uma organização mais eficiente do código.
   - Observação: O uso da metodologia BEM seria melhor utilizado se usado o Sass, além de deixar o código CSS mais organizado e de mais fácil manutenção.
@@ -34,6 +34,12 @@ colocar em prática coisas que não via a um tempo.
 O Design foi entregue já feito, e foi seguido fielmente, o máximo que consegui. Meu maior desafio em seguir fielmente o design solicitado foi na 
 seção 5 e no footer, onde tive que colocar o texto se sobrepondo sobre a imagem, mas achei muito divertido e satisfatório chegar ao resultado final.
 Não foi feita a parte de responsividade, porém essa é uma área para futuras melhorias.
+
+## Ambiente de desenvolvimento
+- ** Windows Server
+
+## Interfaces utilizadas
+- ** VsCode
 
 ## Contatos
 - **E-mail:** mirellypollocks@gmail.com
@@ -57,11 +63,11 @@ This project was very useful as it contributed to the evaluation of my skills an
 ## File Structure
 - `images` - Contains all the images used in the project. (Here, I used images in a separate folder to maintain a cleaner and more organized project structure).
 
-## HTML
+## HTML5
 - `index.html` - This file contains all the HTML code for the project. The page structure was organized into sections, such as header, main, and footer.
 -  Comments were added to the code to facilitate understanding.
 
-## CSS
+## CSS3
 - `main.css` - Here is all the CSS content, developed in conjunction with HTML. Like in HTML, the CSS code was commented for better understanding.
 - I chose to use the BEM methodology for selecting classes, aiming for a more efficient organization of the code.
   - Note: The use of the BEM methodology would be better if Sass were used, in addition to making the CSS code more organized and easier to maintain.
@@ -76,6 +82,12 @@ so that when it reaches a certain section, the animation can finally occur. Anim
 The design was delivered already made, and I followed it faithfully as much as I could. My biggest challenge in faithfully following the requested
 design was in section 5 and the footer, where I had to place the text overlaying the image, but I found it very fun and satisfying to achieve the final result. 
 Responsiveness was not implemented, but this is an area for future improvements.
+
+## Development Environment
+- **Windows Server**
+
+## Used Interfaces
+- **VsCode**
 
 ## Contacts
 - **Email:** mirellypollocks@gmail.com
