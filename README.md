@@ -36,10 +36,10 @@ seção 5 e no footer, onde tive que colocar o texto se sobrepondo sobre a image
 Não foi feita a parte de responsividade, porém essa é uma área para futuras melhorias.
 
 ## Ambiente de desenvolvimento
-- ** Windows Server
+- **Windows Server**
 
 ## Interfaces utilizadas
-- ** VsCode
+- **VsCode**
 
 ## Contatos
 - **E-mail:** mirellypollocks@gmail.com
